@@ -7,7 +7,6 @@ import reply from "../assets/reply.svg";
 
 const EmailDetails = ({ emails }) => {
   const {
-    deleteEmail,
     replying,
     setReplying,
     selectedEmails,
